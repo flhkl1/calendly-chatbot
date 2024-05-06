@@ -11,6 +11,7 @@ Features
 Setup
 Launch the server:
 1. uvicorn main:app --reload
+2. Add OpenAI Key (utils.py) for Chatbot functionality
 
 Usage
 1. Start a Session: Initialize through /start to get a session ID.

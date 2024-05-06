@@ -4,7 +4,7 @@ import asyncio
 import requests
 
 client = OpenAI(
-    api_key="sk-proj-zmeIyR2zv79elIAcADLRT3BlbkFJSha8fwbGE8TaXk7NqbZX",
+    api_key="INSERT_API_KEY",
 )
 
 def generate_result(user_input, user_name="User"):
